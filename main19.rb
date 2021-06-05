@@ -1,10 +1,10 @@
 # شرط if
 
-# if !true
-#   puts "hello"
-# else
-#   puts "bye"
-# end
+if !true
+  puts "hello"
+else
+  puts "bye"
+end
 
 condition = false
 if condition
